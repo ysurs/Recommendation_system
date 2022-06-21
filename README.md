@@ -88,13 +88,13 @@ Following are the types:</br>
   **Types of businesses in the dataset**:
 
   <p align="center">
-  <img src="/Users/yashsurange/Documents/Projects/Recommendation_system/Recommendation_system/data/pics/business_freq.png" width="600"/>
+  <img src="data/pics/business_freq.png" width="600"/>
   </p>
 
   **Cities with most businesses**
 
   <p align="center">
-  <img src="/Users/yashsurange/Documents/Projects/Recommendation_system/Recommendation_system/data/pics/Cities with most businesses.png" width="600"/>
+  <img src="data/pics/Cities with most businesses.png" width="600"/>
   </p>
   
 * **Implementation**
